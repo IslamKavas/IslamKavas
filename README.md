@@ -22,3 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islamkavas&" alt="islamkavas" /></p>
 
+
+![snake gif](https://github.com/IslamKavas/IslamKavas/blob/output/github-contribution-grid-snake.gif)
+
+
