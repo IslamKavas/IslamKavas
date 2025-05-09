@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Islam Kavas</h1>
 <h3 align="center">In pursuit of perfectly simple</h3>
 
-- 🔭 I’m currently working on [Mimcode](https://www.mimcode.com/software/project.php)
+- 🔭 I’m currently studying Data Engineering.
 
 - 📫 How to reach me **islamkavas@gmail.com**
 
